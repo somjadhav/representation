@@ -1,4 +1,4 @@
-_Some plots/maps may not be visible. To view these, follow the instructions below and then download the content as an html file. If that is not possible, feel free to email me and I can send you an html file._
+_Some plots/maps may not be visible when viewing files on github.com. To view them, follow the instructions below and then download the content as an html file. If that is not possible, feel free to email me and I can send you an html file._
 
 _**Easiest Way to View the Content: Fork and clone the repo onto your local machine. Navigate to the root directory. Create a virtual environment (Python version = 3.6) and pip install the requirements.txt file. Finally, run the following command in Bash/Terminal: jupyter notebook Main.ipynb.**_
 
