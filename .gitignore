@@ -131,3 +131,5 @@ dmypy.json
 # R file stuff
 .Rhistory
 .RData
+
+*.html
