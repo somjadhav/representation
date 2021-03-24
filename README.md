@@ -1,4 +1,4 @@
-Easiest Way to View the Content: Download the html file and open it in your favorite browser.
+**Easiest Way to View the Content: Download the html file and open it in your favorite browser.**
 
 Last fall, in the midst of the most heated election in American history, I completed a data analysis and visualization project on the Electoral College (EC). What motivated me to do this was the dialogue surrounding the EC. For years, liberals have claimed that the EC is an unfair system that has a bias towards rural areas, and therefore favors Republicans. Conservatives on the other hand, respond that the institution protects rural areas. I wanted to understand what was true and what was not.
 
